@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Desenvolvimento\\JogoNumeroAleatorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|c:\\desenvolvimento\\jogonumeroaleatorio\\source\\entities\\controladordejogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|solutionrelative:source\\entities\\controladordejogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|c:\\desenvolvimento\\jogonumeroaleatorio\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|solutionrelative:source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|c:\\desenvolvimento\\jogonumeroaleatorio\\source\\enums\\statustentativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|solutionrelative:source\\enums\\statustentativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|c:\\desenvolvimento\\jogonumeroaleatorio\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|solutionrelative:source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|c:\\desenvolvimento\\jogonumeroaleatorio\\source\\entities\\controladordejogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6761E62-AFA4-49AA-9F7A-8C1E9D8E035C}|JogoNumeroAleatorio.csproj|solutionrelative:source\\entities\\controladordejogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Desenvolvimento\\JogoNumeroAleatorio\\Source\\Program.cs",
               "RelativeDocumentMoniker": "Source\\Program.cs",
               "ToolTip": "C:\\Desenvolvimento\\JogoNumeroAleatorio\\Source\\Program.cs",
               "RelativeToolTip": "Source\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:21:16.442Z",
               "IsPinned": true,
@@ -40,17 +40,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ControladorDeJogo.cs",
               "DocumentMoniker": "C:\\Desenvolvimento\\JogoNumeroAleatorio\\Source\\Entities\\ControladorDeJogo.cs",
               "RelativeDocumentMoniker": "Source\\Entities\\ControladorDeJogo.cs",
               "ToolTip": "C:\\Desenvolvimento\\JogoNumeroAleatorio\\Source\\Entities\\ControladorDeJogo.cs",
               "RelativeToolTip": "Source\\Entities\\ControladorDeJogo.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:29:34.87Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:37:36.886Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             }
           ]
         }

@@ -26,3 +26,4 @@ C:\Desenvolvimento\JogoNumeroAleatorio\obj\Debug\net8.0\refint\JogoNumeroAleator
 C:\Desenvolvimento\JogoNumeroAleatorio\obj\Debug\net8.0\JogoNumeroAleatorio.pdb
 C:\Desenvolvimento\JogoNumeroAleatorio\obj\Debug\net8.0\JogoNumeroAleatorio.genruntimeconfig.cache
 C:\Desenvolvimento\JogoNumeroAleatorio\obj\Debug\net8.0\ref\JogoNumeroAleatorio.dll
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Debug\net8.0\JogoNumeroAleatorio.sourcelink.json

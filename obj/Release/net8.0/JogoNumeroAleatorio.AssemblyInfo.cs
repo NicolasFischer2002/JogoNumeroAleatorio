@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogoNumeroAleatorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ae7f3064732185f3fed45908d0ff8fb12f65618")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogoNumeroAleatorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogoNumeroAleatorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
