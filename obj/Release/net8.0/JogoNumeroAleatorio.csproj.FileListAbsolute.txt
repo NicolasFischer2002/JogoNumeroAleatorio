@@ -1,0 +1,28 @@
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.exe
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.deps.json
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.runtimeconfig.json
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.dll
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.pdb
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.AssemblyInfoInputs.cache
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.AssemblyInfo.cs
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.dll
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\refint\JogoNumeroAleatorio.dll
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.pdb
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.genruntimeconfig.cache
+C:\Users\Nicolas Fischer\Documents\Desktop\Aulas 6 Semestre\JogoNumeroAleatorio\obj\Release\net8.0\ref\JogoNumeroAleatorio.dll
+C:\Desenvolvimento\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.exe
+C:\Desenvolvimento\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.deps.json
+C:\Desenvolvimento\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.runtimeconfig.json
+C:\Desenvolvimento\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.dll
+C:\Desenvolvimento\JogoNumeroAleatorio\bin\Release\net8.0\JogoNumeroAleatorio.pdb
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.AssemblyInfoInputs.cache
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.AssemblyInfo.cs
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.dll
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\refint\JogoNumeroAleatorio.dll
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.pdb
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\JogoNumeroAleatorio.genruntimeconfig.cache
+C:\Desenvolvimento\JogoNumeroAleatorio\obj\Release\net8.0\ref\JogoNumeroAleatorio.dll
